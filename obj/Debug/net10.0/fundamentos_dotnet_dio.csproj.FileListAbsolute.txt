@@ -1,0 +1,14 @@
+/home/lucas/Área de trabalho/fundamentos_dotnet_dio/bin/Debug/net10.0/fundamentos_dotnet_dio
+/home/lucas/Área de trabalho/fundamentos_dotnet_dio/bin/Debug/net10.0/fundamentos_dotnet_dio.deps.json
+/home/lucas/Área de trabalho/fundamentos_dotnet_dio/bin/Debug/net10.0/fundamentos_dotnet_dio.runtimeconfig.json
+/home/lucas/Área de trabalho/fundamentos_dotnet_dio/bin/Debug/net10.0/fundamentos_dotnet_dio.dll
+/home/lucas/Área de trabalho/fundamentos_dotnet_dio/bin/Debug/net10.0/fundamentos_dotnet_dio.pdb
+/home/lucas/Área de trabalho/fundamentos_dotnet_dio/obj/Debug/net10.0/fundamentos_dotnet_dio.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Área de trabalho/fundamentos_dotnet_dio/obj/Debug/net10.0/fundamentos_dotnet_dio.AssemblyInfoInputs.cache
+/home/lucas/Área de trabalho/fundamentos_dotnet_dio/obj/Debug/net10.0/fundamentos_dotnet_dio.AssemblyInfo.cs
+/home/lucas/Área de trabalho/fundamentos_dotnet_dio/obj/Debug/net10.0/fundamentos_dotnet_dio.csproj.CoreCompileInputs.cache
+/home/lucas/Área de trabalho/fundamentos_dotnet_dio/obj/Debug/net10.0/fundamentos_dotnet_dio.dll
+/home/lucas/Área de trabalho/fundamentos_dotnet_dio/obj/Debug/net10.0/refint/fundamentos_dotnet_dio.dll
+/home/lucas/Área de trabalho/fundamentos_dotnet_dio/obj/Debug/net10.0/fundamentos_dotnet_dio.pdb
+/home/lucas/Área de trabalho/fundamentos_dotnet_dio/obj/Debug/net10.0/fundamentos_dotnet_dio.genruntimeconfig.cache
+/home/lucas/Área de trabalho/fundamentos_dotnet_dio/obj/Debug/net10.0/ref/fundamentos_dotnet_dio.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "fundamentos_dotnet_dio/1.0.0": {
+        "runtime": {
+          "fundamentos_dotnet_dio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fundamentos_dotnet_dio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
