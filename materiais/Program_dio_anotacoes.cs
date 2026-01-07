@@ -212,3 +212,112 @@
 // numero++;
 // numero = numero - 1;
 // numero--;
+
+// Classe calculadora instanciado em program.cs
+
+// Calculadora calc = new Calculadora();
+
+// calc.Somar(10,30);
+// calc.Subtrair(10,50);
+// calc.Multiplicar(15,45);
+// calc.Dividir(2,2);
+// calc.Potencia(3,3);
+// calc.Seno(30);
+// calc.Coseno(30);
+// calc.Tangente(30);
+// calc.RaizQuadrada(9);
+
+//******************************************************************************//
+
+//DO WHILE
+// int soma = 0,numero = 0;
+
+// do
+// {
+//     Console.WriteLine("Digite Um Numero: (0 para parar).");
+//     numero = Convert.ToInt32(Console.ReadLine());
+
+//     soma += numero;
+
+
+// }while(numero != 0);
+
+// Console.WriteLine($"Total da soma dos numeros digitados e: {soma}");
+//************************************************************************//
+
+//LAÇO WHILE COM BREAK
+// int numero = 5;
+// int contador = 0;
+
+// while (contador <= 10)
+// {
+//     Console.WriteLine($"{numero} X {contador} = {numero * contador}");
+//     contador++;
+
+//     if(contador == 6) vai ate a sexta execucao e para
+//     {
+//         break;
+//     }
+
+// }
+//**********************************************************************************//
+
+//LAÇO WHILE
+// int numero = 5;
+// int contador = 0;
+
+// while (contador <= 10)
+// {
+//     Console.WriteLine($"{numero} X {contador} = {numero * contador}");
+//     contador++;
+// }
+//******************************************************************************//
+
+//LAÇO FOR
+// int numero = 5;
+// for(int contador = 0; contador <=10; contador++)
+// {
+//     Console.WriteLine($"{numero} X {contador} = {numero * contador}");
+// }
+//*****************************************************************************//
+// EXIBINDO MENU
+// string opcao;
+// bool exibirMenu = true;
+
+// while (exibirMenu)
+// {
+//     Console.WriteLine("Digite a sua opcao: ");
+//     Console.WriteLine("1- Cadastrar Cliente. ");
+//     Console.WriteLine("2- Buscar Cliente. ");
+//     Console.WriteLine("3- Apagar Cliente.");
+//     Console.WriteLine("4- Encerrar.");
+
+//     opcao = Console.ReadLine();
+
+//     switch (opcao)
+//     {
+//         case "1":
+//             Console.WriteLine("Cadastro de Cliente.");
+//             break;
+
+//         case "2":
+//             Console.WriteLine("Busca de Cliente.");
+//             break;
+        
+//         case "3":
+//             Console.WriteLine("Excluir Cliente.");
+//             break;
+
+//         case "4":
+//             Console.WriteLine("Encerrar.");
+//             //Environment.Exit(0); // Encerrar programa
+//             //refatorando
+//             exibirMenu = false;
+//             break;
+        
+//         default:
+//             Console.WriteLine("Opcao Invalida.");
+//             break;
+//     }
+// }
+// Console.WriteLine("O programa Se Encerrou.");
